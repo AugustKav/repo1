@@ -1,0 +1,2 @@
+Hi, Im from b1 - branch file
+Secondly edited from b1 branch 
